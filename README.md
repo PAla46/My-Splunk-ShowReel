@@ -26,7 +26,7 @@ Keep your batch processing jobs on track with this dashboard, which offers real-
 
 Get a high-level snapshot of CPU utilization trends across all monitored servers. This dashboard highlights peak usage periods, underutilized resources, and potential bottlenecks, enabling proactive resource management. It's perfect for capacity planning and spotting unusual spikes that might indicate underlying issues.
 
-![CPU Overview Usage](https://github.com/user-attachments/assets/49130fb4-26b7-4090-ab01-37176b6e1c2d)
+![CPU Overview Usage](images/CPU%20Overview%20Usage.png)
 
 ---
 
@@ -34,7 +34,7 @@ Get a high-level snapshot of CPU utilization trends across all monitored servers
 
 Dive into granular CPU metrics with this dashboard that visualizes real-time CPU load, core-by-core usage, and process-level performance. Ideal for system administrators who need to diagnose high-load scenarios or optimize workload distribution. It provides actionable insights into how CPU resources are allocated and consumed.
 
-![CPU Utilization](https://github.com/user-attachments/assets/6be017a5-678f-4121-b476-b14781df8c3f)
+![CPU Utilization](images/CPU%20Utilization.png)
 
 ---
 
@@ -42,7 +42,7 @@ Dive into granular CPU metrics with this dashboard that visualizes real-time CPU
 
 Monitor your storage landscape with this dashboard that tracks disk usage, available capacity, and growth trends across critical storage devices. Prevent outages by detecting storage exhaustion early and planning expansions accordingly. This dashboard is key for data lifecycle management and ensuring sufficient space for business operations.
 
-![Storage Utilization](https://github.com/user-attachments/assets/2df448d4-82ad-487d-a50e-d0696310f6bc)
+![Storage Utilization](images/Storage%20Utilization.png)
 
 ---
 
@@ -50,7 +50,7 @@ Monitor your storage landscape with this dashboard that tracks disk usage, avail
 
 Focus on the health and operational status of CTM (Control-M) servers with this dedicated dashboard. It tracks server availability, job execution statuses, and performance metrics, allowing for swift troubleshooting of scheduling issues or server downtime. Essential for maintaining automation workflows and job orchestration.
 
-![CTM Server Monitoring Dashboard](https://github.com/user-attachments/assets/93519a3a-ae87-47e0-8d93-65bb2078fbe0)
+![CTM Server Monitoring Dashboard](images/CTM%20Server%20Monitoring%20Dashboard.png)
 
 ---
 
@@ -58,7 +58,7 @@ Focus on the health and operational status of CTM (Control-M) servers with this 
 
 Quickly assess the connectivity and operational status of agents deployed across your infrastructure. This dashboard helps identify inactive or malfunctioning agents that could impact data collection or monitoring coverage. It's an indispensable tool for ensuring your monitoring ecosystem remains robust and responsive.
 
-![Agent Status](https://github.com/user-attachments/assets/249a5d93-d936-4e57-9e11-48046a0b3ebf)
+![Agent Status](images/Agent%20Status.png)
 
 ---
 
@@ -66,7 +66,7 @@ Quickly assess the connectivity and operational status of agents deployed across
 
 This comprehensive dashboard performs a health assessment of your ESP (Event Stream Processing) system. It visualizes system performance, error rates, and throughput, enabling you to ensure that event processing pipelines are stable and efficient. By identifying potential issues proactively, you can maintain high availability and data integrity.
 
-![ESP Health Check](https://github.com/user-attachments/assets/7627c584-6eb7-4dbc-b24c-3417c64e426a)
-![ESP Health Check (Continued)](https://github.com/user-attachments/assets/d9d57c00-032d-4f19-b1fe-eefe1e16089d)
+![ESP Health Check](images/ESP%20Health%20Check.png)
+![ESP Health Check (Continued)](images/ESP%20Health%20Check_1.png)
 
 ---
