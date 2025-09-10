@@ -18,7 +18,7 @@ This dashboard delivers a comprehensive overview of file transmission activities
 
 Keep your batch processing jobs on track with this dashboard, which offers real-time status monitoring of TWS (Tivoli Workload Scheduler) batch jobs. Detect failures, delays, and performance anomalies early to maintain operational continuity. This dashboard is a critical tool for ensuring that automated workflows execute reliably without interruption.
 
-![TWS Batch Health Check](images/TWS-Batch-Health-Check.png)
+![TWS Batch Health Check](images/TWS%20Batch%20Health%20Check.png)
 
 ---
 
