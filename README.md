@@ -1,22 +1,43 @@
 # My-Splunk-ShowReel
 
-Welcome to **My-Splunk-ShowReel**, a curated collection of powerful Splunk dashboards designed to provide deep insights into system health, performance, and operations. Whether you're monitoring infrastructure, ensuring batch processes run smoothly, or tracking data flows, these dashboards deliver real-time analytics to empower informed decision-making.
+Welcome to **My Splunk ShowReel**, a collection of dashboards I’ve built to turn complex data into clear insights. From monitoring system health to keeping batch jobs on track, these dashboards provide real-time visibility that makes decision-making easier.
 
-Explore each dashboard below—complete with visuals and detailed explanations to showcase their unique capabilities and practical applications.
+Each one comes with visuals and simple explanations so you can see how it works and why it matters.
 
 ---
 
-## 1) File Transmissions
+## 1) File Transmissions  
 
-This dashboard delivers a comprehensive overview of file transmission activities across your network. Track the volume, success rate, and timing of file transfers to quickly identify bottlenecks, failures, or suspicious activity. It's essential for ensuring data flows seamlessly between systems and for troubleshooting transmission delays or errors.
+**Overview**  
+This dashboard provides visibility into all file transfers handled by Connect:Direct, making it easier to understand and monitor transmission activity across the network.  
+
+**Key Features**  
+- Filter by inbound or outbound transmissions  
+- Select specific source and destination nodes  
+- View detailed records of individual file transfers  
+- Pie chart showing distribution of file volumes across nodes  
+
+**Value**  
+By combining granular transfer data with visual summaries, this dashboard helps you spot workload imbalances, monitor throughput, and quickly troubleshoot failures or delays. It’s a practical tool for ensuring smooth and reliable data flows between systems.  
 
 ![File Transmissions](images/File%20Transmissions.png)
 
 ---
 
-## 2) TWS Batch Health Check
+## 2) TWS Batch Health Check  
 
-Keep your batch processing jobs on track with this dashboard, which offers real-time status monitoring of TWS (Tivoli Workload Scheduler) batch jobs. Detect failures, delays, and performance anomalies early to maintain operational continuity. This dashboard is a critical tool for ensuring that automated workflows execute reliably without interruption.
+**Overview**  
+This dashboard provides a comprehensive health check of all jobs submitted through OPC/TWS, giving you a clear picture of batch processing performance and stability.  
+
+**Key Features**  
+- Track failed job counts over the last 12 hours  
+- Monitor overdue jobs in real time  
+- View abend counts by application team, with filters for the past 24 hours, 7 days, and 30 days  
+- Analyze abend trends with percentage increase or decrease month over month  
+- Panel showing incidents generated in the last 12 hours  
+
+**Value**  
+With both real-time and historical insights, this dashboard helps operations teams quickly identify problem areas, monitor recurring failures, and measure long-term trends. It supports proactive incident management and ensures batch workflows run reliably without disruption.  
 
 ![TWS Batch Health Check](images/TWS%20Batch%20Health%20Check.png)
 
