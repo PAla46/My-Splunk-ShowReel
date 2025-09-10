@@ -146,7 +146,7 @@ This dashboard provides a health check of ESP batch processing, giving real-time
 - Incident management panel showing incidents generated in the last 12 hours, with breakdown by status (Assigned, In Progress, New, Resolved)  
 
 **Value**  
-By combining short-term failure monitoring with long-term trend analysis, this dashboard helps teams quickly identify problem areas, measure reliability over time, and connect failures with incident management. It enables proactive intervention to reduce recurring issues and improve overall batch stability.  
+By combining short-term failure monitoring with long-term trend analysis, this dashboard helps teams quickly identify problem areas, measure reliability over time, and connect failures with incident management. It enables proactive intervention to reduce recurring issues and improve overall batch stability.
 
 ![ESP Health Check](images/ESP%20Health%20Check.png)
 ![ESP Health Check (Continued)](images/ESP%20Health%20Check_1.png)
