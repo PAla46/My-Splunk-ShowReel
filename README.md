@@ -10,7 +10,7 @@ Explore each dashboard below—complete with visuals and detailed explanations t
 
 This dashboard delivers a comprehensive overview of file transmission activities across your network. Track the volume, success rate, and timing of file transfers to quickly identify bottlenecks, failures, or suspicious activity. It's essential for ensuring data flows seamlessly between systems and for troubleshooting transmission delays or errors.
 
-![File Transmissions](images/File Transmissions.png)
+![File Transmissions](images/File%20Transmissions.png)
 
 ---
 
