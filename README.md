@@ -97,25 +97,56 @@ By highlighting both overall and granular storage usage, this dashboard helps yo
 
 ---
 
-## 6) CTM Server Monitoring Dashboard
+## 6) CTM Server Monitoring  
 
-Focus on the health and operational status of CTM (Control-M) servers with this dedicated dashboard. It tracks server availability, job execution statuses, and performance metrics, allowing for swift troubleshooting of scheduling issues or server downtime. Essential for maintaining automation workflows and job orchestration.
+**Overview**  
+This dashboard provides real-time monitoring of Control-M (CTM) servers, giving visibility into host availability, system resources, and overall server health.  
+
+**Key Features**  
+- Active vs. inactive hosts panel with real-time counts  
+- List of active and inactive hosts for quick troubleshooting  
+- Disk usage monitoring (total, free, and used space) across all servers  
+- CPU usage percentage by host with color-coded thresholds  
+- Memory utilization percentage by host with visual indicators  
+
+**Value**  
+By consolidating server health and performance data in one place, this dashboard makes it easy to detect resource constraints, identify failing or overloaded hosts, and prevent disruptions in Control-M scheduling. It enables proactive management of the CTM environment, ensuring automation workflows remain reliable and efficient.  
 
 ![CTM Server Monitoring Dashboard](images/CTM%20Server%20Monitoring%20Dashboard.png)
 
 ---
 
-## 7) Agent Status
+## 7) CTM Agent Status  
 
-Quickly assess the connectivity and operational status of agents deployed across your infrastructure. This dashboard helps identify inactive or malfunctioning agents that could impact data collection or monitoring coverage. It's an indispensable tool for ensuring your monitoring ecosystem remains robust and responsive.
+**Overview**  
+This dashboard monitors the health and availability of Control-M agents, providing real-time insights into their operational status across Windows servers.  
+
+**Key Features**  
+- Current agent status with clear visual indicators (e.g., Running, Inactive)  
+- Timestamp of the last inactive period for each agent  
+- Detailed agent statistics including host, display name, state, start mode, and service type  
+- Filters to focus on specific hosts or time ranges  
+
+**Value**  
+By tracking agent activity and historical downtime, this dashboard helps identify inactive or malfunctioning agents before they impact scheduling operations. It ensures Control-M agents remain available and reliable, strengthening the overall stability of the workload automation environment.  
 
 ![Agent Status](images/Agent%20Status.png)
 
 ---
 
-## 8) ESP Health Check
+## 8) ESP Batch Health Check  
 
-This comprehensive dashboard performs a health assessment of your ESP (Event Stream Processing) system. It visualizes system performance, error rates, and throughput, enabling you to ensure that event processing pipelines are stable and efficient. By identifying potential issues proactively, you can maintain high availability and data integrity.
+**Overview**  
+This dashboard provides a health check of ESP batch processing, giving real-time and historical visibility into job failures and incident generation.  
+
+**Key Features**  
+- Track the number of job failures in the last 12 hours with time-based trend charts  
+- Monthly job failure comparisons across current, previous, and earlier months  
+- Percentage increase or decrease in failures to highlight trends  
+- Incident management panel showing incidents generated in the last 12 hours, with breakdown by status (Assigned, In Progress, New, Resolved)  
+
+**Value**  
+By combining short-term failure monitoring with long-term trend analysis, this dashboard helps teams quickly identify problem areas, measure reliability over time, and connect failures with incident management. It enables proactive intervention to reduce recurring issues and improve overall batch stability.  
 
 ![ESP Health Check](images/ESP%20Health%20Check.png)
 ![ESP Health Check (Continued)](images/ESP%20Health%20Check_1.png)
