@@ -43,25 +43,55 @@ With both real-time and historical insights, this dashboard helps operations tea
 
 ---
 
-## 3) CPU Overview Usage
+## 3) CPU Overview Usage  
 
-Get a high-level snapshot of CPU utilization trends across all monitored servers. This dashboard highlights peak usage periods, underutilized resources, and potential bottlenecks, enabling proactive resource management. It's perfect for capacity planning and spotting unusual spikes that might indicate underlying issues.
+**Overview**  
+This dashboard provides real-time visibility into CPU utilization across multiple LPARs, helping you monitor system performance at a glance.  
+
+**Key Features**  
+- Multiple exploded panels showing live CPU usage for each LPAR  
+- Instant view of utilization patterns across the environment  
+- Identify peak usage periods and potential hotspots in real time  
+- Highlight underutilized resources for better capacity balancing  
+
+**Value**  
+By breaking down CPU usage at the LPAR level, this dashboard makes it easier to detect imbalances, spot unusual spikes, and manage capacity proactively. It supports both day-to-day performance monitoring and longer-term capacity planning.  
 
 ![CPU Overview Usage](images/CPU%20Overview%20Usage.png)
 
 ---
 
-## 4) CPU Utilization
+## 4) CPU and Memory Utilization  
 
-Dive into granular CPU metrics with this dashboard that visualizes real-time CPU load, core-by-core usage, and process-level performance. Ideal for system administrators who need to diagnose high-load scenarios or optimize workload distribution. It provides actionable insights into how CPU resources are allocated and consumed.
+**Overview**  
+This dashboard provides detailed performance metrics for individual LPARs, giving a clear view of both CPU and memory usage in real time.  
+
+**Key Features**  
+- Granular CPU utilization stats for each LPAR  
+- Memory usage tracking alongside CPU metrics  
+- Drill-down visibility into performance at the LPAR level  
+- Helps identify high-load scenarios and resource bottlenecks  
+
+**Value**  
+By combining CPU and memory insights in one place, this dashboard makes it easier to diagnose performance issues, balance workloads, and ensure efficient resource utilization across LPARs. It’s an essential tool for administrators who need deep visibility into system performance.  
 
 ![CPU Utilization](images/CPU%20Utilization.png)
 
 ---
 
-## 5) Storage Utilization
+## 5) Storage Utilization  
 
-Monitor your storage landscape with this dashboard that tracks disk usage, available capacity, and growth trends across critical storage devices. Prevent outages by detecting storage exhaustion early and planning expansions accordingly. This dashboard is key for data lifecycle management and ensuring sufficient space for business operations.
+**Overview**  
+This dashboard provides a clear view of storage usage across all storage groups, helping you stay on top of capacity and usage patterns.  
+
+**Key Features**  
+- Overall insights into free and used space for all storage groups  
+- Interactive graphs showing free vs. used space when a specific storage group is selected  
+- Top 10 datasets consuming the most space within a storage group  
+- Visual trends to track storage growth and usage patterns  
+
+**Value**  
+By highlighting both overall and granular storage usage, this dashboard helps you identify space hogs, prevent storage exhaustion, and plan capacity more effectively. It’s a practical tool for proactive storage management and ensuring critical systems always have the space they need.  
 
 ![Storage Utilization](images/Storage%20Utilization.png)
 
