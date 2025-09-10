@@ -10,7 +10,7 @@ Explore each dashboard below—complete with visuals and detailed explanations t
 
 This dashboard delivers a comprehensive overview of file transmission activities across your network. Track the volume, success rate, and timing of file transfers to quickly identify bottlenecks, failures, or suspicious activity. It's essential for ensuring data flows seamlessly between systems and for troubleshooting transmission delays or errors.
 
-![File Transmissions](https://github.com/user-attachments/assets/9a9285be-015d-4255-bf2e-2581cacaa07f)
+![File Transmissions](images/File Transmissions.png)
 
 ---
 
@@ -18,7 +18,7 @@ This dashboard delivers a comprehensive overview of file transmission activities
 
 Keep your batch processing jobs on track with this dashboard, which offers real-time status monitoring of TWS (Tivoli Workload Scheduler) batch jobs. Detect failures, delays, and performance anomalies early to maintain operational continuity. This dashboard is a critical tool for ensuring that automated workflows execute reliably without interruption.
 
-![TWS Batch Health Check](https://github.com/user-attachments/assets/90385c49-1997-4302-beaa-721fe0a81301)
+![TWS Batch Health Check](images/TWS Batch Health Check.png)
 
 ---
 
