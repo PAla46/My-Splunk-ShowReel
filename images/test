@@ -1,8 +1,0 @@
-this is a test file
-
-#include <iostream.h>
-
-int main {
-cout << "This is a C++ code";
-return 0
-}
